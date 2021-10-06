@@ -9,10 +9,10 @@ public class Main {
 
         System.out.print("Which month that you want to count days? ");
         int month = scanner.nextInt();
-
+        String daysInMonth;
         switch (month) {
             case 2:
-                System.out.println("Tháng 2 có 28 hoặc 29 ngày");
+                daysInMonth = "28 hoặc 29";
                 break;
             case 1:
             case 3:
@@ -21,16 +21,18 @@ public class Main {
             case 8:
             case 10:
             case 12:
-                System.out.println("Tháng " + month + " có 31 ngày.");
+                daysInMonth = "31";
                 break;
             case 4:
             case 6:
             case 9:
             case 11:
-                System.out.println("Tháng " + month + " có 30 ngày.");
+                daysInMonth = "30";
                 break;
             default:
-                System.out.println("Lỗi!!!");
+                daysInMonth = "";
         }
+        if (!daysInMonth.equals("")) System.out.printf("Tháng %d có %s ngày!", month, daysInMonth);
+        else System.out.print("Lỗi!!!");
     }
 }
