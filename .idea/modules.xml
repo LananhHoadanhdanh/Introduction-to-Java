@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1. Introduction to Java.iml" filepath="$PROJECT_DIR$/.idea/1. Introduction to Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/System-time/System-time.iml" filepath="$PROJECT_DIR$/System-time/System-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chiSoBMI/chiSoBMI.iml" filepath="$PROJECT_DIR$/chiSoBMI/chiSoBMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/khaiBaoVaSuDungBien/khaiBaoVaSuDungBien.iml" filepath="$PROJECT_DIR$/khaiBaoVaSuDungBien/khaiBaoVaSuDungBien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kiemTraNamNhuan/kiemTraNamNhuan.iml" filepath="$PROJECT_DIR$/kiemTraNamNhuan/kiemTraNamNhuan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ngayTrongThang/ngayTrongThang.iml" filepath="$PROJECT_DIR$/ngayTrongThang/ngayTrongThang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ptBacNhat/ptBacNhat.iml" filepath="$PROJECT_DIR$/ptBacNhat/ptBacNhat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/suDungToanTu/suDungToanTu.iml" filepath="$PROJECT_DIR$/suDungToanTu/suDungToanTu.iml" />
+    </modules>
+  </component>
+</project>
